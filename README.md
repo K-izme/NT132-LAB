@@ -9,6 +9,6 @@ Lab03: Setting up Active Directory in Window Server
 
 Lab04: Installing and Configuring WS Services 
 
-Lab05: Perform own AWS scheme
+Lab05: Perform AWS scheme
 
 Lab06: Synthesis of Lab01/02
